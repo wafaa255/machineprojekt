@@ -1,4 +1,5 @@
 """
+Hallo
 Einstiegs-Datei in das Machine-Projekt
 Informationen über das Betriebssystem mit dem platform - Modul
 """
